@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+
+# this belongs to iNat
+observations-446668.csv
+observations-446690.csv
+
+
+yolov8s.p
+
+# private to me
+*.save
+config.json
+
+# too much data
+/pest_images
+/detr-resnet
