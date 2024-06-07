@@ -2,7 +2,7 @@ from datasets import load_dataset
 from huggingface_hub import login
 import tensorflow as tf
 
-login(token="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")
+login(token="token_here")
 cppe5 = load_dataset("cppe-5")
 
 if "validation" not in cppe5:
