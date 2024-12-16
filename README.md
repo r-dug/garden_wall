@@ -2,6 +2,8 @@
 
 This project is an effort to protect my garden from chipmunks and squirrels who surrepticiously pilfer ripe tomatoes and cucumbers, only to discard them after taking a single bite. They seem to remember after digging into them *"YUCK! Why's it so sweet and savory at the SAME TIME!?!?"*. Building this has been a fun way to learn about object detection, play more with Raspberry Pis, and configure client-server communication on my local network. It serves as inspo for future endeavors (eg. a local streaming platform on our home network using music we OWN).
 
+**NOTE:** This repository is in disgusting shape at the moment. If I re-implement this program in the 2025 growing season, It'll be much improved. for now though YEESH!! EW!
+
 I wanted to try to solve this problem economically, so price of materials was a major consideration. I also wanted fairly low latency for the response to detected vermin (sorry rodent lovers - I acknowledge chipmunks' cuteness but don't want them in my garden).
 
 ## Setup
